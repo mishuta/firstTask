@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\bin\Debug\TextFromClipboard.exe.config
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\bin\Debug\TextFromClipboard.exe
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\bin\Debug\TextFromClipboard.pdb
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\obj\Debug\TextFromClipboard.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\obj\Debug\TextFromClipboard.exe
+C:\Users\student\Desktop\TextFromClipboard\TextFromClipboard\obj\Debug\TextFromClipboard.pdb
